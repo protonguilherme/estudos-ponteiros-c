@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
-Material completo sobre ponteiros e estruturas de dados em C, desenvolvido durante o curso de **Programação em Dispositivos Móveis** com o Professor Luiz Gustavo Turatti.
+Material completo sobre ponteiros e estruturas de dados em C, desenvolvido como **projeto pessoal de estudos**.
 
 ---
 
@@ -270,9 +270,9 @@ Este é um repositório de estudos pessoais, mas sugestões são bem-vindas!
 
 **Guilherme (Proton)**
 
-- 🎓 Estudante de Programação em Dispositivos Móveis
-- 👨‍🏫 Professor: Luiz Gustavo Turatti
-- 🚀 Projeto paralelo: Office Master (React Native + Firebase)
+- 🎓 Estudante de Programação
+- 💻 Apaixonado por desenvolvimento e estruturas de dados
+- 🚀 Sempre aprendendo e evoluindo
 - 📧 GitHub: [@protonguilherme](https://github.com/protonguilherme)
 
 ---
@@ -296,14 +296,6 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 ```
-
----
-
-## 🌟 Agradecimentos
-
-- Professor Luiz Gustavo Turatti pela orientação
-- Colega Luís Flávio Queiroz pela parceria no projeto Office Master
-- Comunidade de desenvolvedores C por todo o conhecimento compartilhado
 
 ---
 
