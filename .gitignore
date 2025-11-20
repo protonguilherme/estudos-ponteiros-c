@@ -1,0 +1,21 @@
+# Executáveis
+*.out
+*.exe
+a.out
+aula01
+aula02
+aula03
+aula04
+teste
+exercicio
+troca
+
+# Compilados
+*.o
+*.obj
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
